@@ -1,6 +1,6 @@
 
 /*
- * *** Nate Calderon / SECTION 001 ***
+ * *** NATE CALDERON / SECTION 001 ***
  *
  * Homework # 2 (Programming Assignment). This Java class defines a few basic
  * manipulation operations of a binary trees.
